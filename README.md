@@ -54,7 +54,7 @@ Songpa-gu, Seoul, Korea<br>
 > Java, JavaScript, C, C++, PHP, JSP, VB, MATLAB<br>
 
 > **OpenSource Experience**<br>
-AWS<br>
+AWS, Tenserflow, Github<br>
 <br>
 
 **TEAMWORK**<br>
