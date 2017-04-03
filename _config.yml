@@ -1,0 +1,27 @@
+
+title: Resume
+url: 'https://ysm0622.github.io/resume'
+baseurl: '/ysm0622.github.io/resume' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Chris Yang
+tagline: Software Developer<br>Data Scientist
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: ysm0622@gmail.com
+phone: 010 4939 0023
+website: ysm0622.github.io #do not add http://
+linkedin: ysm0622
+github: ysm0622
+
+#Update all the sections by editing the files inside _includes folder.
