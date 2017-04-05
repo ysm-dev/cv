@@ -1,7 +1,7 @@
-ysm0622.github.io
+Resume
 ======
-**ysm0622.github.io** is my personal website.<br>
-You will most likely find it under [ysm0622.github.io](https://ysm0622.github.io).
+**ysm0622.github.io/Resume** is my Resume.<br>
+You will most likely find it under [ysm0622.github.io/Resume](https://ysm0622.github.io/Resume).
 
 ## Screenshot
 <p align="center">
