@@ -1,7 +1,7 @@
 Resume
 ======
-**ysm0622.github.io/Resume** is my Resume.<br>
-You will most likely find it under [ysm0622.github.io/Resume](https://ysm0622.github.io/Resume).
+This is my Resume.<br>
+You will most likely find it under [HERE](https://ysm0622.github.io/Resume).
 
 ## Screenshot
 <p align="center">
