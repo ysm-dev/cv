@@ -1,7 +1,7 @@
 Resume
 ======
 This is my Resume.<br>
-You will most likely find it under [HERE](https://ysm0622.github.io/Resume).
+You will most likely find it under [HERE](goo.gl/8tVBsY).
 
 ## Screenshot
 <p align="center">
@@ -10,14 +10,14 @@ You will most likely find it under [HERE](https://ysm0622.github.io/Resume).
 
 ## Technology
 * CSS frameworks, e.g. BootStrap
-* Themes
+* Themes  
 * JS frameworks, e.g. jQuery
 * IconSets, e.g. [Glyphicons](http://glyphicons.com/)
 * [GitHub Pages](http://pages.github.com/)
 
 ## Contact
 #### Developer
-* Homepage: [ysm0622.github.io](ysm0622.github.io)
+* Homepage: [Link](goo.gl/8tVBsY)
 * E-mail: ysm0622@gmail.com
 
 ## License
