@@ -1,7 +1,7 @@
 Resume
 ======
 This is my Resume.<br>
-You will most likely find it under [HERE](goo.gl/8tVBsY).
+You will most likely find it under [HERE](https://goo.gl/8tVBsY).
 
 ## Screenshot
 <p align="center">
@@ -17,7 +17,7 @@ You will most likely find it under [HERE](goo.gl/8tVBsY).
 
 ## Contact
 #### Developer
-* Homepage: [Link](goo.gl/8tVBsY)
+* Homepage: [Link](https://goo.gl/8tVBsY)
 * E-mail: ysm0622@gmail.com
 
 ## License
