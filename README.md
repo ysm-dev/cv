@@ -17,7 +17,7 @@ You will most likely find it under [HERE](https://goo.gl/8tVBsY).
 
 ## Contact
 #### Developer
-* Homepage: [Link](https://goo.gl/8tVBsY)
+* Homepage: [Link]https://goo.gl/4IlaOe)
 * E-mail: ysm0622@gmail.com
 
 ## License
