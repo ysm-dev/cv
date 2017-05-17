@@ -1,4 +1,4 @@
-Resume
+CV
 ======
 This is my CV.<br>
 You will most likely find it under [HERE](https://goo.gl/6D5Qbs).
