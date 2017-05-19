@@ -1,6 +1,6 @@
 CV
 ======
-This is my CV.<br>
+This is my Curriculum Vitae.<br>
 You will most likely find it under [HERE](https://goo.gl/6D5Qbs).
 
 ## Screenshot
