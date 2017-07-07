@@ -14,12 +14,12 @@ style: styles-6
 
 #Profile information
 name: Chris Yang
-tagline: Software Developer<br>Data Scientist
+tagline: Software Engineer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: ysm0622@gmail.com
-phone: 010 4939 0023
+phone: +82 10 4939 0023
 #website: ysm0622.github.io/Resume #do not add http://
 linkedin: ysm0622
 github: ysm0622
