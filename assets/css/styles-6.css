@@ -209,6 +209,13 @@ p {
   margin-bottom: 0;
   font-weight: 500;
 }
+.main-wrapper .links {
+  position: absolute;
+  right: 30%;
+  font-size: 19px;
+  top: -4px;
+  color: #97AAC3;
+}
 .main-wrapper .time {
   position: absolute;
   right: 0;
