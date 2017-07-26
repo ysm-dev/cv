@@ -103,6 +103,9 @@ p {
 .sidebar-wrapper .contact-list .email .fa {
   font-size: 14px;
 }
+.sidebar-wrapper .contact-list .photo .fa {
+  font-size: 14px;
+}
 .sidebar-wrapper .container-block {
   padding: 30px;
 }
@@ -215,6 +218,9 @@ p {
   font-size: 19px;
   top: -4px;
   color: #97AAC3;
+}
+.main-wrapper .links .fa-camera {
+  font-size: 15px;
 }
 .main-wrapper .time {
   position: absolute;
