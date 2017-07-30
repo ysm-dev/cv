@@ -259,8 +259,19 @@ p {
   top: -3px;
 }
 
+.main-wrapper .links li {}
+
+.main-wrapper .links li {
+  display: inline;
+  margin-left: 10px;
+}
+
 .main-wrapper .links .fa-camera {
   font-size: 15px;
+}
+
+.main-wrapper .links .fa-video-camera {
+  font-size: 17px;
 }
 
 .main-wrapper .time {
