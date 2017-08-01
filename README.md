@@ -1,12 +1,7 @@
 CV
 ======
 This is my Curriculum Vitae.<br>
-You will most likely find it under [HERE](https://goo.gl/6D5Qbs).
-
-## Screenshot
-<p align="center">
-  <img src="assets/images/capture1.PNG" width="800"/>
-</p>
+You will most likely find it under [HERE](https://ysm0622.github.io/cv).
 
 ## Technology
 * CSS frameworks, e.g. BootStrap
@@ -17,7 +12,7 @@ You will most likely find it under [HERE](https://goo.gl/6D5Qbs).
 
 ## Contact
 #### Developer
-* Homepage: [Link](https://goo.gl/6D5Qbs)
+* Homepage: [Link](https://ysm0622.github.io/cv)
 * E-mail: ysm0622@gmail.com
 
 ## License
