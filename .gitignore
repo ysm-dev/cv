@@ -1,4 +1,10 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.idea
+
 .DS_Store
+.idea/cv.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
